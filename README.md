@@ -1,3 +1,10 @@
 ## Simple SET Protocol
 
-利用python简单模拟SET协议工作流程
+Simple simulation of SET protocol workflow
+
+## Analog module
+
+- SSL/TLS encrypted communication
+- double signature
+
+
